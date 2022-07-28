@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Practica3\Proyecto2.0.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/Proyecto2.0]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/Proyecto2.0]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\Practica3\Vistas\BD\conexion.php"/>
+  <file name="C:\xampp\htdocs\Practica3\Vistas\Usuarios.php"/>
+  <file name="C:\xampp\htdocs\Practica3\Vistas\validar.js"/>
+  <file name="C:\xampp\htdocs\Practica3\Vistas\post.php"/>
+  <file name="C:\xampp\htdocs\Practica3\Servidor\insertarusu.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1658969561180" name="C:\xampp\htdocs\Practica3\Vistas\js\formulario.js"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\js\bootstrap.min.js"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\js\bootstrap.js"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\js\bootstrap.esm.min.js"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\js\bootstrap.esm.js"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\js\bootstrap.bundle.min.js"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\js\bootstrap.bundle.js"/>
+  <file crc="1656889253264" name="C:\xampp\htdocs\Practica3\Vistas\Include\Pie.php"/>
+  <file crc="1658038968517" name="C:\xampp\htdocs\Practica3\Vistas\Include\EncabezadoPrincipal3.php"/>
+  <file crc="1658039174126" name="C:\xampp\htdocs\Practica3\Vistas\Include\EncabezadoPrincipal2.php"/>
+  <file crc="1658038706333" name="C:\xampp\htdocs\Practica3\Vistas\Include\EncabezadoPrincipal.php"/>
+  <file crc="1658039296317" name="C:\xampp\htdocs\Practica3\Vistas\Global\variables.php"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap.rtl.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap.rtl.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-utilities.rtl.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-utilities.rtl.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-utilities.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-utilities.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-reboot.rtl.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-reboot.rtl.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-reboot.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-reboot.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-grid.rtl.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-grid.rtl.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-grid.min.css"/>
+  <file crc="1633790663000" name="C:\xampp\htdocs\Practica3\Vistas\css\bootstrap-grid.css"/>
+  <file crc="1658958972509" name="C:\xampp\htdocs\Practica3\Vistas\BD\conexion.php"/>
+  <file crc="1658987631557" name="C:\xampp\htdocs\Practica3\Vistas\validar.js"/>
+  <file crc="1658988350441" name="C:\xampp\htdocs\Practica3\Vistas\Usuarios.php"/>
+  <file crc="1658967287450" name="C:\xampp\htdocs\Practica3\Vistas\Registro_Usuarios.php"/>
+  <file crc="1658043795614" name="C:\xampp\htdocs\Practica3\Vistas\Proveedores.php"/>
+  <file crc="1658042654276" name="C:\xampp\htdocs\Practica3\Vistas\Productos.php"/>
+  <file crc="1658983492156" name="C:\xampp\htdocs\Practica3\Vistas\post.php"/>
+  <file crc="1658039933448" name="C:\xampp\htdocs\Practica3\Vistas\Inicio.php"/>
+  <file crc="1658043010647" name="C:\xampp\htdocs\Practica3\Vistas\Clientes.php"/>
+  <file crc="1658038760141" name="C:\xampp\htdocs\Practica3\Vistas\Autentificación.php"/>
+  <file crc="1658987932987" name="C:\xampp\htdocs\Practica3\Servidor\insertarusu.php"/>
+  <file crc="1658039741112" name="C:\xampp\htdocs\Practica3\index.php"/>
+ </filescache>
+</project>
